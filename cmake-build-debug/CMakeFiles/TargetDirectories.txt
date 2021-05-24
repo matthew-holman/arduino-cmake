@@ -1,0 +1,7 @@
+/Users/matthewh/gitrepos/arduino-cmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matthewh/gitrepos/arduino-cmake/cmake-build-debug/CMakeFiles/blink-upload.dir
+/Users/matthewh/gitrepos/arduino-cmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/matthewh/gitrepos/arduino-cmake/cmake-build-debug/CMakeFiles/uno_CORE.dir
+/Users/matthewh/gitrepos/arduino-cmake/cmake-build-debug/CMakeFiles/blink.dir
+/Users/matthewh/gitrepos/arduino-cmake/cmake-build-debug/CMakeFiles/upload.dir
+/Users/matthewh/gitrepos/arduino-cmake/cmake-build-debug/CMakeFiles/blink-size.dir
